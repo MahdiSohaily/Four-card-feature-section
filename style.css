@@ -92,7 +92,6 @@ body {
   justify-content: center;
   align-items: center;
   background-color: var(--light-gray);
-  padding-block: var(--size-600);
 }
 header {
   text-align: center;
@@ -104,15 +103,18 @@ main {
   width: 100%;
   max-width: min(1000px, 85%);
   grid-template-areas: "supervisor wrapper calculator";
+  padding-block: var(--size-500);
 }
 
 @media screen and (max-width:40em) {
+  body{
+    padding-block: var(--size-600);
+  }
   main{
     grid-template-areas: 
     "supervisor"
     " wrapper "
     "calculator";
-    padding-block: var(--size-500);
   }
 }
 .Supervisor {
