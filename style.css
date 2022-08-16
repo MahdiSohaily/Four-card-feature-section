@@ -104,7 +104,6 @@ main {
   width: 100%;
   max-width: min(1000px, 85%);
   grid-template-areas: "supervisor wrapper calculator";
-  padding-block: var(--size-500);
 }
 
 @media screen and (max-width:40em) {
@@ -113,6 +112,7 @@ main {
     "supervisor"
     " wrapper "
     "calculator";
+    padding-block: var(--size-500);
   }
 }
 .Supervisor {
