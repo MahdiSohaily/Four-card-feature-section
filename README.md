@@ -18,22 +18,16 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
+- View the optimal layout for the app depending on their device's screen size.
 
 ### Screenshot
-- Screenshot of the challenge
-![Challenge Screenshot](./design/desktop-preview.jpg)
-- Screenshot of the solution
-![Solution Screenshot](./design/desktop.png)
-- Screenshot of the solution
-![Solution Screenshot](./design/mobile.png)
+| Desktop version                              |               Mobile Version                |
+| -------------------------------------------- | :-----------------------------------------: |
+| ![Solution Screenshot](./design/desktop.png) | ![Solution Screenshot](./design/mobile.png) |
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-IAJuEiVfhr)
 - Live Site URL: [Live site URL](https://mahdisohaily.github.io/Four-card-feature-section/)
 
 ## My process
